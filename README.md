@@ -3,8 +3,8 @@ Quiz 3
 
 Nama Anggota
 1. Shintya Angelica Simatupang
-2. Rezky Syawaludin Hamid
-3. Mochamand Isako Yuda
+2. Rezky Syawaluddin Hamid
+3. Mochamad Isako Yuda
 4. Sutantyo Jan Prawira
 
 
