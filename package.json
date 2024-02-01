@@ -1,0 +1,14 @@
+{
+  "name": "sanber53-cypress-kelompok-7",
+  "version": "1.0.0",
+  "description": "Quiz 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
