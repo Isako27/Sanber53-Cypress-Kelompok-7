@@ -9,13 +9,13 @@ Nama Anggota
 
 
 Pembagian Tugas :
-1. Create Account - Shintya
-2. Login - Shintya
-3. My Acccount - edit account - M. Isako
-4. My Acccount - Edit Address - M. Isako
-5. Choose Product(s) - Jan
-6. View and Update Shopping Cart - Jan
-7. Proceed to Checkout - Eky
+1. Create Account - Shintya Angelica Simatupang
+2. Login - Shintya Angelica Simatupang
+3. My Acccount - edit account - Mochamad Isako Yuda
+4. My Acccount - Edit Address - Mochamad Isako Yuda
+5. Choose Product(s) - Sutantyo Jan Prawira
+6. View and Update Shopping Cart - Sutantyo Jan Prawira
+7. Proceed to Checkout - Rezky Syawaluddin Hamid
 
 
    
