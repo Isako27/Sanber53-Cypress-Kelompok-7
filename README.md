@@ -2,12 +2,12 @@ gits # Sanber53-Cypress-Kelompok-7
 
 Quiz-3
 
-Nama Anggota
+Nama Anggota Kelompok 7
 
-Shintya Angelica Simatupang
-Rezky Syawaluddin Hamid
-Mochamad Isako Yuda
-Sutantyo Jan Prawira
+- Shintya Angelica Simatupang
+- Rezky Syawaluddin Hamid
+- Mochamad Isako Yuda
+- Sutantyo Jan Prawira
 
 Pembagian Tugas :
 1. Create Account - Shintya Angelica Simatupang
