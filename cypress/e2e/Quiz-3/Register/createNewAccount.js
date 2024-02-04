@@ -13,7 +13,7 @@ describe('Create New Account Functionality', () => {
     Register.clickCreate()
     Register.verifySuccess()
   })
-  it.only('Verify failed create account using registered customer', () => {
+  it('Verify failed create account using registered customer', () => {
     cy.get(Register.fName).type('shintya')
     cy.get(Register.lName).type('simatupang')
     cy.get(Register.email).type('mikasa00@yopmail.com')
@@ -22,5 +22,27 @@ describe('Create New Account Functionality', () => {
     Register.clickCreate()
     Register.verifyError()
   })
+  it('Verify failed create account using registered email', () => {
+
+  })
+  it('Verify failed create account without fills all the fields', () => {
+
+  })
+  it('Verify failed create account without fills the First Name field', () => {
+
+  })
+  it('Verify failed create account without fills the Last Name field', () => {
+
+  })
+  it('Verify failed create account without fills the E-mail field', () => {
+
+  })
+  it('Verify failed create account without fills the Password field', () => {
+
+  })
+  it('Verify failed create account without fills the Confirm Password field', () => {
+
+  })
+  
 
 })
