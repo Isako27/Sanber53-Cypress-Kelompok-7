@@ -4,10 +4,10 @@ Quiz-3
 
 Nama Anggota
 
-Shintya Angelica Simatupang
-Rezky Syawaluddin Hamid
-Mochamad Isako Yuda
-Sutantyo Jan Prawira
+- Shintya Angelica Simatupang
+- Rezky Syawaluddin Hamid
+- Mochamad Isako Yuda
+- Sutantyo Jan Prawira
 
 Pembagian Tugas :
 1. Create Account - Shintya Angelica Simatupang
