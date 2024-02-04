@@ -10,6 +10,7 @@ describe('Create New Account Functionality', () => {
     cy.get(Register.email).type('mikasa04@yopmail.com')
     cy.get(Register.pwd).type('Shanon1216')
     cy.get(Register.confirm_pwd).type('Shanon1216')
+    Register.clickCreate()
     Register.verifySuccess()
   })
   it.only('Verify failed create account using registered customer', () => {
@@ -18,6 +19,8 @@ describe('Create New Account Functionality', () => {
     cy.get(Register.email).type('mikasa00@yopmail.com')
     cy.get(Register.pwd).type('Shanon1212')
     cy.get(Register.confirm_pwd).type('Shanon1212')
+    Register.clickCreate()
     Register.verifyError()
   })
+
 })
