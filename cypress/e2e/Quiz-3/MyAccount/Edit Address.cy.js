@@ -3,11 +3,11 @@ describe('Edit Addres Information spec', () => {
 
         cy.visit('https://magento.softwaretestingboard.com/customer/address/edit/id/24929/')
        
-        cy.get('#firstname').type ('Tsubasa')
+        cy.get('#firstname').type ('Wakabayashi')
         cy.get('#lastname').type ('Ozora')
-        cy.get('#company').type ('Telkom')
-        cy.get('#telephone').type ('12345')
-        cy.get('#street_1').type ('Jl. Raya Soreang No. 36')
+        cy.get('#company').type ('SAMSUNG')
+        cy.get('#telephone').type ('23456')
+        cy.get('#street_1').type ('Jl. Dago No 52')
         cy.get('#street_2').type ('')
         cy.get('#street_3').type ('')
         cy.get('#city').type ('Bandung')
