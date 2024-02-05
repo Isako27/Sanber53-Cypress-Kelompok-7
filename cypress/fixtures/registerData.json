@@ -1,0 +1,25 @@
+{
+    "newAcc": {
+        "newFName": "jjj",
+        "newLName" : "kkk",
+        "newEmail" : "mikasa04@yopmail.com",
+        "newPwd" : "Shanon1217",
+        "newConfirmPwd": "Shanon1217"
+    },
+
+    "currentAcc": {
+        "currentFName": "shintya",
+        "currentLName": "simatupang",
+        "currentEmail": "mikasa00@yopmail.com",
+        "currentPwd": "Shanon1212",
+        "currentConfirmPwd": "Shanon1212"
+    },
+
+    "emptyCase": {
+        "FName": "yaya",
+        "LName": "nana",
+        "email": "mikasa017@yopmail.com",
+        "pwd": "Shasha111",
+        "confirmPwd": "Shasha111"
+    }
+}
