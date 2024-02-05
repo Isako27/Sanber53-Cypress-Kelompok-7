@@ -1,3 +1,4 @@
+//by Shintya Angelica Simatupang
 import { constants } from "buffer"
 import Register from "../../../support/pageObject/Register"
 const registerData = require("../../../fixtures/registerData.json")
