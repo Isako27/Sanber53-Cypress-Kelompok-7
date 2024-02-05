@@ -1,6 +1,17 @@
 {
     "validLogin": {
         "email" : "mikasa00@yopmail.com",
-        "password" : "Shanon1212"
-    }
+        "pwd" : "Shanon1212"
+    },
+
+    "invalidLogin": {
+        "email": "aakasihanaa@yopmail.com",
+        "pwd": "Aakasihanaa1000"
+    },
+
+    "validEmail": "mikasa00@yopmail.com",
+    "validPwd": "Shanon1212",
+    "invalidEmail" : "juju100@yopmail.com",
+    "invalidPwd": "Shanon0000",
+    "invalidFormatEmail": "mikasa00"
 }
