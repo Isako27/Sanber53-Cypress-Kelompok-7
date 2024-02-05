@@ -22,5 +22,26 @@ class Register {
         //function to click the Create an Account button
         cy.get(this.create_btn).click()
     }
+
+    verifyFNameError(){
+        cy.get('#firstname-error').should('contain.text', 'This is a required field.')
+    }
+
+    verifyLNameError(){
+        cy.get('#lastname-error').should('contain.text', 'This is a required field.')
+    }
+
+    verifyEmailError(){
+        cy.get('#email_address-error').should('contain.text', 'This is a required field.')
+    }
+
+    verifyPwdError(){
+        cy.get('#password-error').should('contain.text', 'This is a required field.')
+    }
+
+    verifyConfirmPwdError(){
+        cy.get('#password-confirmation-error').should('contain.text', 'This is a required field.')
+    }
+
 }
 export default new Register()

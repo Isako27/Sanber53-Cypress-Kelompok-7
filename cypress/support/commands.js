@@ -24,6 +24,6 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-// Cypress.Commands.add('verifyUrl', (path) => {
-//     cy.url().should('contain', '/')
-// })
+Cypress.Commands.add('verifyUrl', (path) => {
+    cy.url().should('contain', '/customer/account/')
+})
