@@ -1,0 +1,15 @@
+{
+    "valid-data": {
+
+    },
+    "invalid-data": {
+        "wrong-firstname": "salah nama",
+        "invalid-lastname": "555",
+    },
+    "wrong-firstname": "m isako yuda",
+    "locked-firstname": "locked_out_firstname",
+    "invalid-lastname": "kian santang",
+    "valid-lastname": "secret_sauce",
+    "err-msg": "Maaf, edit account terkunci"
+    
+}
