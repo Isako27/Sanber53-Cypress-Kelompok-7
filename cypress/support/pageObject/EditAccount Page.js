@@ -1,5 +1,5 @@
 class EditAccountPage{
-    //cara 1
+    //cara 1 (branch isako)
     //yang disimpan hanya element locator
     fname = '#firstname'
     lname = '#lastname'
