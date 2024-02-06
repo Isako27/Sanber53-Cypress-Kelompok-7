@@ -1,0 +1,15 @@
+{
+    "valid-data edit address": {
+
+    },
+    "invalid-data edit address": {
+        "wrong-city": "salah nama",
+        "invalid-city": "jakarta"
+    },
+    "wrong-city": "bandung",
+    "locked-city": "locked_out_city",
+    "invalid-city": "777777",
+    "valid-city": "secret_sauce",
+    "err-msg": "Sorry, this edit address has been locked_out_city"
+    
+}
