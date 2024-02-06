@@ -1,15 +1,15 @@
 {
-    "valid-data": {
+    "valid-data edit address": {
 
     },
-    "invalid-data": {
-        "wrong-firstname": "salah nama",
-        "invalid-lastname": "123abc"
+    "invalid-data edit address": {
+        "wrong-city": "salah nama",
+        "invalid-city": "jakarta"
     },
-    "wrong-firstname": "m isako yuda",
-    "locked-firstname": "locked_out_firstname",
-    "invalid-lastname": "kian santang",
-    "valid-lastname": "secret_sauce",
-    "err-msg": "Maaf, edit account terkunci"
+    "wrong-city": "bandung",
+    "locked-city": "locked_out_city",
+    "invalid-city": "777777",
+    "valid-city": "secret_sauce",
+    "err-msg": "Sorry, this edit address has been locked_out_city"
     
 }
