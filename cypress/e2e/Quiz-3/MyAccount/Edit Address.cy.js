@@ -1,9 +1,9 @@
 describe('Edit Addres Information spec', () => {
     it('Succes Edit Address Book', () => {
 
-        cy.visit('https://magento.softwaretestingboard.com/customer/address/edit/id/24929/')
+        cy.visit('https://magento.softwaretestingboard.com/customer/address')
        
-        cy.get('#firstname').type ('Wakabayashi')
+        cy.get('[name="firstname"]').type ('Wakabayashi')
         cy.get('#lastname').type ('Ozora')
         cy.get('#company').type ('SAMSUNG')
         cy.get('#telephone').type ('23456')
@@ -13,9 +13,8 @@ describe('Edit Addres Information spec', () => {
         cy.get('#city').type ('Bandung')
         cy.get('#region').type ('Jawa Barat')
         cy.get('#zip').type ('44004')
-        cy.get('#country').type ('Indonesia')
-   
-        cy.get('#form-validate > .actions-toolbar > div.primary > .action').click()
+        cy.get('#country').type ('')
+        cy.get('add-address').click()
 
     })
 })
